@@ -1,0 +1,5 @@
+Buat database dengan nama notes_db
+Lalu import table yang ada di file bernama notes
+npm start di backend
+npm run dev di catetan
+done
